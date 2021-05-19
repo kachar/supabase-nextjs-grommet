@@ -6,3 +6,16 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [ESLint](https://eslint.org/)
 - [Jest](https://jestjs.io/)
+
+
+# Build
+
+```bash
+yarn
+
+yarn dev
+```
+
+# License
+
+GPL v3
